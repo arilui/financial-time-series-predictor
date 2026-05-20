@@ -1,0 +1,20 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# PyTorch model files
+*.pth
+
+# Node
+frontend/node_modules/
+
+# Next.js
+frontend/.next/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
